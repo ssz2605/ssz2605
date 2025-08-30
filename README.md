@@ -3,7 +3,7 @@
 ![GIF](https://user-images.githubusercontent.com/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## 💻 About Me
-My name is **Shreya**  
+My name is **Shreya Saxena**  
 Frontend Developer | Competitive Programmer | Open Source Enthusiast  
 
 ✨ I love working with **React** and modern frontend frameworks/libraries like **Redux Toolkit, Next.js, TailwindCSS, ShadCN/UI**.  
