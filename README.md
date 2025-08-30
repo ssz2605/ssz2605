@@ -10,7 +10,7 @@ Frontend Developer | Competitive Programmer | Open Source Enthusiast
 
 🌍  Based in India  
 ✉️  Reach me at **shreyasaxena2605@gmail.com**  
-🧠  Currently learning **Advanced React, and **Data Structures and Algorithms**
+🧠  Currently learning **Advanced React**, and **Data Structures and Algorithms**
 
 🤝  Open to collaborating on **interesting web projects & open-source**  
 ⚡  Passionate about coding, problem-solving, and building impactful projects  
