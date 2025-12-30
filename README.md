@@ -6,7 +6,7 @@ My name is **Shreya Saxena**
 **Frontend Developer | Competitive Programmer | Open Source Enthusiast**
 
 ✨ I enjoy building modern, scalable UIs using **React** and tools like  
-**Redux Toolkit, Next.js, Tailwind CSS, and shadcn/ui**
+**Redux Toolkit, Tailwind CSS, and shadcn/ui**
 
 🌍 Based in **India**  
 ✉️ Reach me at **shreyasaxena2605@gmail.com**  
